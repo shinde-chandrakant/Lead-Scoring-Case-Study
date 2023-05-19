@@ -21,7 +21,7 @@
 
 **File Details:**  
 
-Lead Scoring Assignment_Dhruv_Sudeep.ipynb : Python file containing codes for the lead scoring model and related analysis  
+LeadScoring.ipynb : Python file containing codes for the lead scoring model and related analysis  
 Lead Scoring Subjective Questions.pdf : Answers to subjective questions  
 Lead Scoring Case Study.pdf : Management Presentation  
 Leads.csv : Dataset worked on  
